@@ -24,7 +24,7 @@ const Contact = () => {
 
   return (
     <section id='contact'>
-      <h5>Have An Issue Not Is Not Addressed In The FAQ</h5>
+      <h5>Have An Issue That Is Not Addressed In The FAQ</h5>
       <h2>Submit your query here</h2>
 
       <div className="container contact__container">
